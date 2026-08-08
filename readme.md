@@ -1,3 +1,30 @@
+# Acode Mobile Workspace 📱💻
+
+**Mobile-First IDE Configurations & On-the-Go Development Hub**  
+*Part of the [ChelseaWoods](https://github.com/chichi-lyman/ChelseaWoods) ecosystem by [@chichi-lyman](https://github.com/chichi-lyman)*
+
+---
+
+## 📌 Overview
+`Acode` is your mobile development repository. It holds custom editor settings, snippet shortcuts, theme configurations (matching your Y2K cyberpunk/gothic aesthetic), and quick-fix scripts optimized for editing Nova Umbrella agents directly from your phone or mobile terminal setup.
+
+---
+
+## 📂 Workspace Structure & Configurations
+
+| Directory / File | Target Stack | Purpose |
+| :--- | :--- | :--- |
+| **`/.acode/settings.json`** | IDE Core | Editor preferences, keybindings, and font/theme customization. |
+| **`/snippets/python/`** | Python 3 | Quick boilerplate templates for Saphira, Enforcer, and Agent Zero. |
+| **`/snippets/markdown/`** | Markdown | Fast documentation templates for repo READMEs and architecture notes. |
+| **`/plugins/`** | JavaScript / Web | Custom editor extensions and local file-sync workflows. |
+
+---
+
+## 🚀 Mobile Workflow Integration
+
+
+
 # Acode - Code Editor for Android
 
 <p align="center">
